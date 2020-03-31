@@ -6,7 +6,7 @@ AS A a person trying to keep track of their progress I WANT to be able to log al
 
 How to Use
 
-Open URL https://agile-shore-53165.herokuapp.com
+Open URL <https://anu-dam-workouttracker.herokuapp.com>
 
 Click the 'New Workout' button.
 Select your exercise and fill in the prompts
