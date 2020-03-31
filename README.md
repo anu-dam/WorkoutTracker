@@ -1,10 +1,10 @@
 # Workout-Tracker
 
-User Story
+## User Story
 
 AS A a person trying to keep track of their progress I WANT to be able to log all the accounts of my workout routine and see the progress I'm making
 
-How to Use
+## How to Use
 
 Open URL <https://anu-dam-workouttracker.herokuapp.com>
 
@@ -14,13 +14,14 @@ Add your Exercise. Once it's complete, click your "complete" button.
 When you hit complete you should be brought back to the main page to see your progress.
 Click your Dashboard tab.
 You should be able to see pie and circle charts on your prgress
-Built With
+
+## Built With
 
 * MongoDB
 * RoboT3
 * Mongoose
 
-Task Breakdown
+## Task Breakdown
 
 We first need to look at the boiler plate to identify what our code is doing
 We can notice there are no api or html routes. We also do not have any models or server to work with.
